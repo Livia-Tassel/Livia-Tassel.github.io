@@ -22,7 +22,7 @@ title: 关于我
 - 2024.11 大学生数学竞赛（非数学A类）省三等奖
 
 ### 联系方式
-- 邮箱: [3459465562@qq.com](mailto:3459465562@qq.com)
+- 邮箱: [流苏](mailto:3459465562@qq.com)
 - GitHub: [Livia-Tassel](https://github.com/Livia-Tassel)
 
   希望通过此博客与更多志同道合的朋友共同交流、成长！

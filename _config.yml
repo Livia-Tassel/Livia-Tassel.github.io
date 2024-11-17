@@ -4,11 +4,13 @@ email: 3459465562@qq.com # email of site's author
 url: ""  # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  专注于计算机科学与技术的个人博客.
+  Livia-Tassel的技术博客.
 
+# md链接格式问题
 permalink: /:slug.html
-
+# logo显示问题
 favicon: "logo.png" # name+extension of favicon (根目录)
+
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
 theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
@@ -25,3 +27,4 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
