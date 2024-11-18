@@ -7,10 +7,9 @@ entries:
       - title: GitHub
         url: https://github.com/Livia-Tassel/Livia-Tassel.github.io
       - title: BiliBili
-        url: https://space.bilibili.com/3493122610825915?spm_id_from=333.1007.0.0 
+        url: https://space.bilibili.com/3493122610825915?spm_id_from=333.1007.0.0
       - title: 博客园
-        url: https://www.cnblogs.com/code-yiyi           
-
+        url: https://www.cnblogs.com/code-yiyi
 
   - title: 文章列表
     post_list:
@@ -19,14 +18,24 @@ entries:
       show_more_text: more
       show_more_url: archive.html
 
-# 分类跳转仍存在问题
+  # 分类跳转仍存在问题
   - title: 文章分类
     entries:
       - title: 技术类
-        
+        post_list:
+          category: 技术类
+          limit: 3
+          show_more: true
+          show_more_text: more
+          show_more_url: technology.html
+      - title: 生活类
+        post_list:
+          category: 生活类
+          limit: 3
+          show_more: true
+          show_more_text: more
+          show_more_url: life.html
 
-
-  
   - title: 其他
     entries:
       - title: 个人简介
