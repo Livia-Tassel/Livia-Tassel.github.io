@@ -1,9 +1,8 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-
 gem "kramdown-parser-gfm"
-gem "github-pages", group: :jekyll_plugins # GitHub Pages 官方支持的依赖
+gemspec
 
 gem "webrick", "~> 1.9"
 gem "jekyll-seo-tag" # 添加 SEO 支持
