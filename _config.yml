@@ -1,7 +1,7 @@
 cdtitle: Livia-Tassel的技术博客 # 博客标题
 author: Livia-Tassel # 昵称或笔名
 email: 3459465562@qq.com # email of site's author
-url: ""  # root address of the site
+url: "https://Livia-Tassel.github.io" # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   Livia-Tassel的技术博客.
@@ -13,7 +13,11 @@ favicon: "logo.png" # name+extension of favicon (根目录)
 
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
-theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+
+plugins:
+  - jekyll-seo-tag # 添加 SEO 支持
+  - jekyll-feed # 添加 RSS 支持
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
@@ -23,8 +27,3 @@ theme_config:
 
 sass:
   style: :compressed
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
