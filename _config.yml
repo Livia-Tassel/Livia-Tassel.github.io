@@ -1,7 +1,7 @@
 cdtitle: Livia-Tassel的技术博客 # 博客标题
 author: Livia-Tassel # 昵称或笔名
 email: 3459465562@qq.com # email of site's author
-url: ""  # root address of the site
+url: "https://Livia-Tassel.github.io" # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   Livia-Tassel的技术博客.
@@ -27,4 +27,3 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
