@@ -4,8 +4,6 @@
 
 <h3 align="center"><a href="https://livia-tassel.xin">访问我的博客</a></h3>
 
-<img src="https://github.com/Livia-Tassel/Livia-Tassel.github.io/tree/master/_screenshots/screenshot.jpg" />
-
 ---
 
 ## 博客特色
